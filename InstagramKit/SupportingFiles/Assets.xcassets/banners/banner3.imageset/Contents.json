@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "round-line-concept-programming-coding-vector-linear-web-banner-93197160.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
